@@ -14,3 +14,5 @@ To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}.pwskills.app:5000/
 ```
+http://diabeticprediction-env.eba-dixajh9i.ap-south-1.elasticbeanstalk.com/
+http://diabeticprediction-env.eba-dixajh9i.ap-south-1.elasticbeanstalk.com/predictdata
